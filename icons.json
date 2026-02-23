@@ -159,13 +159,16 @@
   },
   {
     "name": "cam-on",
-    "svg": "cam-on.svg"
+    "svg": "cam-on.svg",
+    "root-dir": "./custom-icons/"
   }, {
     "name": "cam-off",
-    "svg": "cam-off.svg"
+    "svg": "cam-off.svg",
+    "root-dir": "./custom-icons/"
   },
   {
     "name": "airplay",
-    "svg": "airplay.svg"
+    "svg": "airplay.svg",
+    "root-dir": "./custom-icons/"
   }]
 }
