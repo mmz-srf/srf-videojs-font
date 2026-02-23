@@ -156,5 +156,12 @@
     "name": "audio-description",
     "svg": "audio-description.svg",
     "root-dir": "./custom-icons/"
+  },
+  {
+    "name": "cam-on",
+    "svg": "cam-on.svg"
+  }, {
+    "name": "cam-off",
+    "svg": "cam-off.svg"
   }]
 }
