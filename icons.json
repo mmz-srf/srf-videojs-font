@@ -163,5 +163,9 @@
   }, {
     "name": "cam-off",
     "svg": "cam-off.svg"
+  },
+  {
+    "name": "airplay",
+    "svg": "airplay.svg"
   }]
 }
