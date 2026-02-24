@@ -170,5 +170,9 @@
     "name": "airplay",
     "svg": "airplay.svg",
     "root-dir": "./custom-icons/"
+  }, {
+    "name": "playback-speed",
+    "svg": "playback-speed.svg",
+    "root-dir": "./custom-icons/"
   }]
 }
